@@ -1,0 +1,16 @@
+ASCII_file_header "NRL Arctic Data 1"
+
+header 1 80 char 0
+
+ASCII_data "NRL Arctic-Canada Data Format
+Line Id char
+Year integer
+Julian Day integer
+Hour integer
+Min integer
+Sec integer
+Latitude (decimal deg) float
+Longitude (decimal deg) float
+Residual Field float
+Total Intensity float
+
